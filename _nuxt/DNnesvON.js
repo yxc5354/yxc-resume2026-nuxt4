@@ -1,0 +1,1 @@
+import{_ as t,A as r,B as n,z as s}from"./DdPhoB1-.js";const o={};function a(l,e){return s(),r("div",null,[...e[0]||(e[0]=[n("h1",null,"关于我们",-1),n("p",null,"这是一个通过 SSG 部署到 GitHub Pages 的 SSR 页面。",-1)])])}const u=t(o,[["render",a]]);export{u as default};
